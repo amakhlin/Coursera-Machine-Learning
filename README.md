@@ -1,0 +1,1 @@
+Notes and assigmenents for Coursera's Machine Learning MOOC with Andrew Ng
